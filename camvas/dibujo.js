@@ -11,7 +11,6 @@ for(l=0; l<lineas; l++)
     xf = 10 * (l + 1);
     dibujarLinea("#AAF",0,yi,xf,300);
     console.log("linea" + l);
-
 }
 
 dibujarLinea(col,1,1,1,299 );
