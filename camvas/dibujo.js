@@ -33,3 +33,4 @@ function dibujoPorClick() {
     dibujarLinea(col, 1, 1, 1, 299);
     dibujarLinea(col, 1, 299, 299, 299);
 }
+ 
